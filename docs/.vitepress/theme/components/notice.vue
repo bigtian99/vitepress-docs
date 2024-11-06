@@ -14,18 +14,18 @@ setTimeout(function () { visible.value = false }, 5000);
 
     <div v-if="visible" class="notice">
 
-        <h3 class="notice-title">网站公告</h3>
+        <h3 class="notice-title">插件公告</h3>
 
         <div class="notice-describe">
-            <p>本次更新：新公告样式</p>
+            <p>本次更新：增加自定义变量</p>
             <p class="notice-domain">
                 <strong>
-                    详细教程：<a href="https://vitepress.yiov.top/layout.html#%E5%85%AC%E5%91%8A"
-                        target="_blank">vitepress.yiov.top</a>
+                    视频教程：<a href="https://www.bilibili.com/video/BV1yV411g7Yd/?vd_source=b6f434af852a6a39fcd34fc2de5cf431"
+                        target="_blank">插件视频集合</a>
                 </strong>
             </p>
-            <p>QQ 频道：******(无效二维码)</p>
-            <img class="notice-img" src="/qrcode.png">
+            <p>QQ群号：872707845</p>
+            <img class="notice-img" src="/qq_group.png">
         </div>
 
         <div class="notice-footer">
