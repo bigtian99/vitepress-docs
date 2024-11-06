@@ -7,7 +7,7 @@ titleTemplate: 快速上手中文教程
 hero:
   name: "时间淡忘一切"
   text: "记录自己的程序生涯"
-  tagline: 如果你也想搭建它，那跟我一起做吧
+  tagline: 跟随时间的脚步，编写属于我们的精彩篇章
   image:
     src: /logo.png
     alt: VitePress
