@@ -10,7 +10,6 @@ export default defineConfig({
   lang: 'zh-CN',
   title: "时间淡忘一切",
   description: "时间淡忘一切的技术博客",
-
   // #region fav
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
